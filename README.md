@@ -7,8 +7,11 @@
 - Thanks to <b>Python</b> and its vast collection of <b>Libraries</b>, the job gets easily done 🙂
 
 <h4> To install Face Recogintion module,<br>
+  
 - Check if Python and Pip are installed [python --version, pip --version] 🐍<br>
+  
 - Upgrade pip (if necessary) [pip install --upgrade pip] 🔧<br>
+  
 - Install the module --> pip install face-recognition ✨<br>
 </h4>
 
