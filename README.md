@@ -1,4 +1,4 @@
-<h2 align="center"> Face Recognizer 🤡 </h2>
+<h2 align="center"> <i>Face Recognizer 🤡</i> </h2>
 <hr> 
 
 
