@@ -1,4 +1,5 @@
-<pre><i><b><h1 align="center"> Face Recognition </h1></b></i></pre>
+<h2 align="center"> Face Recogniser 🤡: ~ </h2>
+<hr> 
 
 
 - The repository contains the file face_recognition.py
