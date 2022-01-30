@@ -1,4 +1,4 @@
-<h2 align="center"> Face Recogniser 🤡: ~ </h2>
+<h2 align="center"> Face Recognizer 🤡 </h2>
 <hr> 
 
 
