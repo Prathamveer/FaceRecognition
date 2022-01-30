@@ -6,7 +6,7 @@
 - Two images are required, <b>Source Image</b>(The Image of the Person) and <b>Collective Image</b>(Image you are trying to find the person in 🌌
 - Thanks to <b>Python</b> and its vast collection of <b>Libraries</b>, the job gets easily done 🙂
 
-<h4> To install Face Recogintion module,<br>
+<h4> <b>To install Face Recogintion module,</b><br>
   
 - Check if Python and Pip are installed [python --version, pip --version] 🐍<br>
   
