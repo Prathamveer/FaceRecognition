@@ -2,7 +2,14 @@
 <hr> 
 
 
-- The repository contains the file face_recognition.py
-- Two images are required, Source Image(The Image of the Person) and Collective Image(Image you are trying to find the person in.)
-- Thanks to python and the face_recognition library, the job gets easily done.
+- The repository contains the file <b>face_recognition.py</b> 📁
+- Two images are required, <b>Source Image</b>(The Image of the Person) and <b>Collective Image</b>(Image you are trying to find the person in 🌌
+- Thanks to <b>Python</b> and its vast collection of <b>Libraries</b>, the job gets easily done 🙂
 
+<h4> To install Face Recogintion module,
+  - Check if Python and Pip are installed [python --version, pip --version] 🐍
+  - Upgrade pip (if necessary) [pip install --upgrade pip] 🔧
+  - Install the module --> pip install face-recognition ✨
+</h4>
+
+<h3>And you're good to go…</h3>
